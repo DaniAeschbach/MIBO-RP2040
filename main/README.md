@@ -6,6 +6,7 @@ This folder contains all hardware-related files for the RP2040-based PCB project
 
 - /schematics → Circuit schematics
 - /gerber → Manufacturing files (Gerber, BOM, PAP)
+- /pictures → Photos of the PCB (screenshots, renders)
 
 ## Description
 
